@@ -24,8 +24,6 @@ We have developed algorithms that make some processes on a CSV file that contain
 
  we can evaluate the complexity of each project function in the notebook code.
 
-
-
 ## Team Members
 
 This project was created due to the efforts of all the team members and their indescribable hard work.
@@ -33,8 +31,7 @@ This project was created due to the efforts of all the team members and their in
 <table>
   <tr>
      <td align="center"><a href="https://github.com/Ola-Mohamed"><img src="https://avatars.githubusercontent.com/u/66176966?v=4" width="100px;" alt=""/><br /><sub>      <b>Ola Mohamed Ahmed</b></sub></a><br /></td>
-    
-    <td align="center"><a href="https://github.com/Aml-Hassan-Abd-El-hamid"><img src="https://avatars.githubusercontent.com/u/66205928?v=4" width="100px;" alt=""/><br /><sub><b>Aml Hassan</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Aml-Hassan-Abd-El-hamid"><img src="https://avatars.githubusercontent.com/u/66205928?v=4" width="100px;" alt=""/><br/><sub><b>Aml Hassan</b></sub></a><br /></td> 
     <td align="center"><a href="https://github.com/demiana55samir"><img src="https://avatars.githubusercontent.com/u/65955978?v=4" width="100px;" alt=""/><br /><sub><b>Demiana Samir</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Asmahan-Rashed"><img src="https://avatars.githubusercontent.com/u/65909593?v=4" width="100px;" alt=""/><br /><sub><b>Asmahan-Rashed</b></sub></a><br /></td>
     
