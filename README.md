@@ -34,8 +34,6 @@ This project was created due to the efforts of all the team members and their in
     <td align="center"><a href="https://github.com/Aml-Hassan-Abd-El-hamid"><img src="https://avatars.githubusercontent.com/u/66205928?v=4" width="100px;" alt=""/><br/><sub><b>Aml Hassan</b></sub></a><br /></td> 
     <td align="center"><a href="https://github.com/demiana55samir"><img src="https://avatars.githubusercontent.com/u/65955978?v=4" width="100px;" alt=""/><br /><sub><b>Demiana Samir</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Asmahan-Rashed"><img src="https://avatars.githubusercontent.com/u/65909593?v=4" width="100px;" alt=""/><br /><sub><b>Asmahan-Rashed</b></sub></a><br /></td>
-    
-    
       <td align="center"><a href="https://github.com/dina-mohamed52"><img src="https://avatars.githubusercontent.com/u/66019870?v=4" width="100px;" alt=""/><br /><sub><b>Dina Mohamed</b></sub></a><br /></td>
     </tr>
 </table>
