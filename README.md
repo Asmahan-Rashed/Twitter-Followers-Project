@@ -36,6 +36,6 @@ This project was created due to the efforts of all the team members and their in
     <td align="center"><a href="https://github.com/Asmahan-Rashed"><img src="https://avatars.githubusercontent.com/u/65909593?v=4" width="100px;" alt=""/><br /><sub><b>Asmahan-Rashed</b></sub></a><br /></td>
     
     
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>Dina Mohamed</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/dina-mohamed52"><img src="https://avatars.githubusercontent.com/u/66019870?v=4" width="100px;" alt=""/><br /><sub><b>Dina Mohamed</b></sub></a><br /></td>
     </tr>
 </table>
